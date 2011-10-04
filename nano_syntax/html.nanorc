@@ -1,0 +1,4 @@
+## Here is a short example for HTML
+syntax "HTML" "\.html$"
+color blue start="<" end=">"
+color red "&[^;       ]*;"
